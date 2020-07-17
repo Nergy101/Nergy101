@@ -1,7 +1,8 @@
 ## Welcome to my 📜 @ <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="30" width="30">
 
-[![HitCount](http://hits.dwyl.com/Nergy101/Nergy101.svg)](http://hits.dwyl.com/Nergy101/Nergy101)
-
+[![HitCount](http://hits.dwyl.com/Nergy101/Nergy101.svg)](http://hits.dwyl.com/Nergy101/Nergy101)  
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Nergy101?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Nergy101?label=Follow&style=social) 
 
 My name's Christian and I am from NL 👋 .  
 I love using my 💻 to create some cool stuff!
