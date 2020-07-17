@@ -1,4 +1,8 @@
 ## Welcome to my 📜 @ <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="30" width="30">
+
+[![HitCount](http://hits.dwyl.com/Nergy101/Nergy101.svg)](http://hits.dwyl.com/Nergy101/Nergy101)
+
+
 My name's Christian and I am from NL 👋 .  
 I love using my 💻 to create some cool stuff!
 
