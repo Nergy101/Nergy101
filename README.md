@@ -24,8 +24,6 @@ if (YouLikeMyRepos || ThinkTheyAreStraight🔥) {
 🅰 Angular         | :snake: 3.x     | 🟥 Redis          | :ferris_wheel: Kubernetes
 ⚛ Electron         |  🦾 NodeJS         | 🟦 SQLite         | 🐇 RabbitMQ
 
-![MyStats](https://github-readme-stats.vercel.app/api?username=Nergy101&show_icons=true)
-
 Currently learning about:
 - GraphQL
 - Rust lang
