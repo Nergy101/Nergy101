@@ -22,7 +22,7 @@ if (YouLikeMyRepos || ThinkTheyAreStraight🔥) {
 ---------          |-----------      |-------------       |------------------------------|
 ✔️ Vue              |     C #️⃣       | ![MongoDB](https://img.shields.io/badge/-MongoDB-green)        | 🐳 Docker
 🅰️ Angular         | 🐍 3.x     |![Redis](https://img.shields.io/badge/-Redis-red) |  ☸️ Kubernetes
-⚛️ Electron         |  🦾 NodeJS         |  ![SQLite](https://img.shields.io/badge/-SQLite-blue)         | 🐇 RabbitMQ
+⚛️ Electron         |  🤖 NodeJS         |  ![SQLite](https://img.shields.io/badge/-SQLite-blue)         | 🐇 RabbitMQ
 
 Currently learning about:
 - GraphQL
