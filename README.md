@@ -4,7 +4,7 @@
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Nergy101?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Nergy101?label=Follow&style=social) 
 
-My name's Christian and I am from NL 👋 .  
+My name's Christian and I am from 🇳🇱NL 👋 .  
 I love using my 💻 to create some cool stuff!
 
 ```cs
@@ -18,11 +18,11 @@ if (YouLikeMyRepos || ThinkTheyAreStraight🔥) {
 }
 ```
 
-🎫 Frontend Techs | 🚀 Backend Techs| 🗄 Databases       | ⚙ Other Techs
+📺 Frontend Techs | 🚀 Backend Techs| 🗃️ Databases       | ⚙ Other Techs
 ---------          |-----------      |-------------       |------------------------------|
-✔ Vue              |     C #️⃣       | 🟩 MongoDB         | :whale: Docker
-🅰 Angular         | :snake: 3.x     | 🟥 Redis          | :ferris_wheel: Kubernetes
-⚛ Electron         |  🦾 NodeJS         | 🟦 SQLite         | 🐇 RabbitMQ
+✔️ Vue              |     C #️⃣       | ![MongoDB](https://img.shields.io/badge/-MongoDB-green)        | 🐳 Docker
+🅰️ Angular         | 🐍 3.x     |![Redis](https://img.shields.io/badge/-Redis-red) |  ☸️ Kubernetes
+⚛️ Electron         |  🦾 NodeJS         |  ![SQLite](https://img.shields.io/badge/-SQLite-blue)         | 🐇 RabbitMQ
 
 Currently learning about:
 - GraphQL
