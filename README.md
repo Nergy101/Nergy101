@@ -25,5 +25,4 @@ if (YouLikeMyRepos || ThinkTheyAreStraight🔥) {
 ⚛️ Electron         |  🤖 NodeJS         |  ![SQLite](https://img.shields.io/badge/-SQLite-blue)         | 🐇 RabbitMQ
 
 Currently learning about:
-- GraphQL
-- Rust lang
+- Svelte
