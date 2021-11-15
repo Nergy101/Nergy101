@@ -20,9 +20,13 @@ if (YouLikeMyRepos || ThinkTheyAreStraight🔥) {
 
 📺 Frontend Techs | 🚀 Backend Techs| 🗃️ Databases       | ⚙ Other Techs
 ---------          |-----------      |-------------       |------------------------------|
-✔️ Vue              |     C #️⃣       | ![MongoDB](https://img.shields.io/badge/-MongoDB-green)        | 🐳 Docker
-🅰️ Angular         | 🐍 3.x     |![Redis](https://img.shields.io/badge/-Redis-red) |  ☸️ Kubernetes
-⚛️ Electron         |  🤖 NodeJS         |  ![SQLite](https://img.shields.io/badge/-SQLite-blue)         | 🐇 RabbitMQ
+✅ Vue              |     C #️⃣        | ![MongoDB](https://img.shields.io/badge/-MongoDB-green)        | 🐳 Docker
+🅰️ Angular         | 🟦 TypeScript     | ![Redis](https://img.shields.io/badge/-Redis-red) |  🐯 NestJS
+🅱️ Blazor         |  🤖 NodeJS         | ![MSSQL](https://img.shields.io/badge/-MSSQL-blue)         | 🐇 RabbitMQ
 
 Currently learning about:
-- Svelte
+- GraphQL
+- gRPC
+
+Achieved my:
+- AZ-204
