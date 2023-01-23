@@ -29,8 +29,8 @@ if (YouLikeMyRepos || ThinkTheyAre(🔥))
 
 🚀 Backend
 - C #️⃣
-- TypeScript 🟦 
-- NodeJS 🟩
+- TypeScript ![TS](https://img.shields.io/badge/-TS-blue) 
+- NodeJS 🟩 ![JS](https://img.shields.io/badge/-JS-green) 
 - Python 3 🐍
 
 🗃️ Database
