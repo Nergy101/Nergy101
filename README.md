@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Nergy101?label=Follow&style=social) 
 
-See my portfolio site by clicking [here](https://portfolio.nergy.space)
+See my portfolio site by clicking [here](http://portfolio.nergy.space)
 
 My name's Christian and I am a dev from NL 👋   
 I love using my 💻 to create some cool stuff!
