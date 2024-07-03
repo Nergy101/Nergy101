@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Nergy101?label=Follow&style=social) 
 
-See my portfolio site by clicking [here](https://portfolio.nergy.space) ![Portfolio Kuma uptime](https://kuma.nergy.space/api/badge/5/uptime/730)
+See my portfolio site by clicking [here](https://portfolio.nergy.space)
 
 My name's Christian and I am a dev from NL 👋   
 I love using my 💻 to create some cool stuff!
