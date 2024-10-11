@@ -8,13 +8,13 @@ My name's Christian and I am a dev from NL 👋
 I love using my 💻 to create some cool stuff!
 
 ```cs
-if (You.Like.MyRepos || You.Want.ToConnect) 
+if (You.Like().My.Repos().Any() || You.Want()?.ToConnect ?? true) 
 {
   await Do("Follow" && "Give a ⭐");
   
   await TryToConnect(Discord: "@nergy101", LinkedIn: "https://www.linkedin.com/in/christian-van-dijk-657069134");
 
-  return "Thanks!";
+  return ("Thanks!", "Talk to you soon");
 }
 ```
 [LinkedIn](https://www.linkedin.com/in/christian-van-dijk-657069134)
