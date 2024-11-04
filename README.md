@@ -1,72 +1,51 @@
-# Welcome to my Profile
-
+Hi 👋 My name is Christian and I am a dev from NL
+==========================
 ![GitHub followers](https://img.shields.io/github/followers/Nergy101?label=Follow&style=social) 
 
-See my portfolio site by clicking [here](http://portfolio.nergy.space)
+Full-Stack Cloud Developer
+--------------------------
 
-My name's Christian and I am a dev from NL 👋   
-I love using my 💻 to create some cool stuff!
+Professionally I've always been invested with C# and anything .NET related. Every day I work with Azure and DevOps, creating backends with .NET. APIs with ASP.NET, backends with different kinds of architectures (Clean Architecture / Micro Services), CI/CD (Azure Pipelines & Bicep), the list goes on. Hobbying I do mostly by exploring strange new databases, frameworks and libraries, trying to build a small app in the end.
 
-```cs
-if (You.Like().My.Repos().Any() || You.Want()?.ToConnect ?? true) 
-{
-  await Do("Follow" && "Give a ⭐");
-  
-  await TryToConnect(Discord: "@nergy101", LinkedIn: "https://www.linkedin.com/in/christian-van-dijk-657069134");
-
-  return ("Thanks!", "Talk to you soon");
-}
-```
-[LinkedIn](https://www.linkedin.com/in/christian-van-dijk-657069134)
-- - -
-
-## Techs ❤️‍🔥
-
-📺 Frontend
-- Angular  ![A](https://img.shields.io/badge/-A-red) 
-- Blazor ![B](https://img.shields.io/badge/-B-blue) 
-- Vue ✅
-- Svelte(Kit) 🔗
-
-🚀 Backend
-- C #️⃣
-- TypeScript ![TS](https://img.shields.io/badge/-TS-blue) 
-- Node ![JS](https://img.shields.io/badge/-JS-green) 
-- Deno 🦕
-- Python 3 🐍
-
-🗃️ Database
-- ![SQL](https://img.shields.io/badge/-SQL-blueviolet) 
-- ![CosmosDB](https://img.shields.io/badge/-CosmosDB-blue) 
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-- ![Redis](https://img.shields.io/badge/-Redis-red)
-
-💽 Ops
-- ![Azure](https://img.shields.io/badge/-Azure-blue) ☁ for work
-  - Pipelines
-  - Bicep 🦾
-  - Functions
-  - WebApps
-  - CosmosDB
-  - MS-SQL Server
-- ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-blue) 🌊 for hobby
-
-⚙ Other
-- Azure DevOps 🧾
-- Docker(-compose) and Docker Swarm 🐳 
-- Kubernetes 🛞
-- RabbitMQ 🐇
-
-## Learning
-- [PocketBase](https://pocketbase.io)
-- [GraphQL](https://graphql.org)
-- [QuestDB](https://questdb.io)
-- [RethinkDB](https://rethinkdb.com)
-- [Three.js](https://threejs.org)
-- [Deno fresh](https://fresh.deno.dev)
-
-As you might notice... I like fiddling with DBs and libraries!
-
-## Achieved
-- [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204/)
-- [Docker Certified Associate (DCA)](https://training.mirantis.com/certification/dca-certification-exam/)
+*   🌍  I'm based in Utrecht, NL
+*   🖥️  See my portfolio at [Portfolio](http://portfolio.nergy.space)
+*   ✉️  You can contact me at [cdijk4@gmail.com](mailto:cdijk4@gmail.com)
+*   🚀  I'm currently working on [Tovedem](http://tovedem.nergy.space)
+*   🧠  I'm learning about MassTransit and Nx
+*   ⚡  Not-so secretly a geek since 1999### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://discord.com/users/nergy101" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.github.com/Nergy101" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://nergy101.hashnode.dev" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/christian-van-dijk-657069134/" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>
