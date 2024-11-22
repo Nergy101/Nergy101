@@ -1,3 +1,12 @@
+DCA Certified:
+![accredible](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65853736)
+
+AZ-204 and AZ-400 certified:
+[my Microsoft Azure Transcript](https://learn.microsoft.com/en-us/users/christianvandijk-5149/transcript/d8yzncxwwk2gwrp?tab=credentials-tab)
+
+PSM I certified:
+[my scrum.org profile](https://www.scrum.org/user/992051)
+
 Hi 👋 My name is Christian and I am a dev from NL
 ==========================
 ![GitHub followers](https://img.shields.io/github/followers/Nergy101?label=Follow&style=social) 
