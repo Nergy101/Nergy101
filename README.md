@@ -1,15 +1,16 @@
-DCA Certified:
-![accredible](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65853736)
 
-AZ-204 and AZ-400 certified:
-[my Microsoft Azure Transcript](https://learn.microsoft.com/en-us/users/christianvandijk-5149/transcript/d8yzncxwwk2gwrp?tab=credentials-tab)
-
-PSM I certified:
-[my scrum.org profile](https://www.scrum.org/user/992051)
-
-Hi 👋 My name is Christian and I am a dev from NL
-==========================
+Hi 👋 My name is Christian and I am a dev from NL 
 ![GitHub followers](https://img.shields.io/github/followers/Nergy101?label=Follow&style=social) 
+<a href='https://ko-fi.com/Q5Q217MZ6B' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+==========================
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Nergy101"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 Full-Stack Cloud Developer
 --------------------------
@@ -17,8 +18,9 @@ Full-Stack Cloud Developer
 Professionally I've always been invested with C# and anything .NET related. Every day I work with Azure and DevOps, creating backends with .NET. APIs with ASP.NET, backends with different kinds of architectures (Clean Architecture / Micro Services), CI/CD (Azure Pipelines & Bicep), the list goes on. Hobbying I do mostly by exploring strange new databases, frameworks and libraries, trying to build a small app in the end.
 
 *   🌍  I'm based in Utrecht, NL
-*   🖥️  See my portfolio at [Portfolio](http://portfolio.nergy.space)
-*   ✉️  You can contact me at [cdijk4@gmail.com](mailto:cdijk4@gmail.com)
+*   🖥️  See my [Portfolio](http://portfolio.nergy.space)
+*   📕  Visit my [Blog](https://blog.nergy.space)
+*   ✉️  You can contact me at [cdijk4@gmail.com](mailto:cdijk4@gmail.com) or [Ko-fi](https://ko-fi.com/nergy)
 *   🚀  I'm currently working on [Tovedem](http://tovedem.nergy.space)
 *   🧠  I'm learning about MassTransit and Nx
 *   ⚡  Not-so secretly a geek since 1999### Skills 
@@ -54,3 +56,15 @@ Professionally I've always been invested with C# and anything .NET related. Ever
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>
+
+Certificates
+--------------------------
+DCA Certified:
+![accredible](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65853736)
+
+AZ-204 and AZ-400 certified:
+[my Microsoft Azure Transcript](https://learn.microsoft.com/en-us/users/christianvandijk-5149/transcript/d8yzncxwwk2gwrp?tab=credentials-tab)
+
+PSM I certified:
+[my scrum.org profile](https://www.scrum.org/user/992051)
+
