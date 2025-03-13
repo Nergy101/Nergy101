@@ -51,8 +51,7 @@ Professionally I've always been invested with C# and anything .NET related. Ever
 
 Certificates
 --------------------------
-DCA Certified:
-![accredible](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65853736)
+Docker Certified Associate (expired)
 
 AZ-204 and AZ-400 certified:
 [my Microsoft Azure Transcript](https://learn.microsoft.com/en-us/users/christianvandijk-5149/transcript/d8yzncxwwk2gwrp?tab=credentials-tab)
